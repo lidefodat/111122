@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+
+<data>
+    <company>
+        <name>vps provider</name>
+        <domain>github.com</domain>
+        <email>vps@prov.info</email>
+    </company>
+    <offer>
+	
+	
+	
+	
+	
+	
+	
+ <vps>       
+            <virtualization>kvM</virtualization>
+            <cpucores>2</cpucores>
+            <ram>20000</ram>
+            <aram>
+                <aramv>50</aramv>
+                <aramt>vswap</aramt>
+            </aram>
+            <storage>
+               <spec>
+                    <quantity>1</quantity>
+                    <space>1000</space>
+                    <stype>HDD</stype>
+                </spec>
+                <spec>
+                    <quantity>1</quantity>
+                    <space>256</space>
+                    <stype>SSD</stype>
+                </spec>
+
+            </storage>
+            <bandwidth>10</bandwidth>
+            <port>100</port>
+            <osfamily>linux</osfamily>
+            <country>nl</country>
+            <city>amsterdam</city>
+            <ipv4>10</ipv4>
+            <ipv6>yes</ipv6>
+           <testipv4>213.163.76.200</testipv4>
+            <testfile>http://nyvz1.orbitservers.com/100mb.bin</testfile>
+            <currency>eur</currency>
+            <promo>
+                <coupon>265BOOM</coupon>
+                <discount>25</discount>
+            </promo>
+            <mprice>2.4</mprice>
+            <qprice>7</qprice>
+            <sprice>6.50</sprice>
+            <aprice>6.000</aprice>
+            <delivery>2</delivery>
+            <refund>3</refund>
+            <order>https://my.frantech.ca/cart.php?a=confproduct&i=0</order>
+            <addinfo>DDoS Detection, Fully Managed. No IRC, no bots, no torrents, no porno </addinfo>
+        </vps>
+
+        
+ 
+    </offer>
+</data>
